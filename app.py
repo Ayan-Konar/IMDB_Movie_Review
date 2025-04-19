@@ -1,4 +1,3 @@
-import tensorflow
 import streamlit as st
 from tensorflow.keras.datasets import imdb
 from tensorflow.keras.preprocessing.sequence import pad_sequences
